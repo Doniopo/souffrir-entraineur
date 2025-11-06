@@ -4,12 +4,19 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>Faire souffrir le staff de Longueuil</title>
+
+  <!-- Police sportive -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
   <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
   <header class="container">
     <h1>Faire souffrir le staff de Longueuil</h1>
-    <p class="subtitle">Clique sur un nom ou un exercice pour aller au paiement.</p>
+    <p class="subtitle">Clique sur un nom ou un exercice pour aller au paiement 💪</p>
   </header>
 
   <main class="container">
@@ -18,19 +25,21 @@
         <h2 class="person">
           <a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.name }}</a>
         </h2>
+
         <ul class="items">
           {% for it in p.get('items', []) %}
-            <li class="item">
-              <a class="item-link" href="{{ it.url }}" target="_blank" rel="noopener">
-                <span class="label">{{ it.label }}</span>
-                <span class="price">{{ it.price }}$</span>
-              </a>
-            </li>
+          <li class="item">
+            <a class="item-link" href="{{ it.url }}" target="_blank" rel="noopener">
+              <span class="label">{{ it.label }}</span>
+            </a>
+            <span class="price">{{ it.price }}&nbsp;$</span>
+          </li>
           {% endfor %}
         </ul>
       </section>
     {% endfor %}
   </main>
+
 
   <footer class="container footer">
     <small>© Salem</small>
