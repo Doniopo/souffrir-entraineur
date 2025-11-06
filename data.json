@@ -1,0 +1,53 @@
+{
+  "title": "Souffrir ton entraîneur",
+  "people": [
+    {
+      "name": "Tamara",
+      "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba",
+      "items": [
+        { "label": "20 Squat", "price": 20, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" },
+        { "label": "10 Push-ups", "price": 10, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" }
+      ]
+    },
+    {
+      "name": "Salem",
+      "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba",
+      "items": [
+        { "label": "20 Push-ups", "price": 20, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" },
+        { "label": "10 Dips", "price": 10, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" }
+      ]
+    },
+    {
+      "name": "Dany",
+      "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba",
+      "items": [
+        { "label": "20 Burpees", "price": 20, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" },
+        { "label": "100 m de course", "price": 10, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" }
+      ]
+    },
+    {
+      "name": "Jay-Lee",
+      "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba",
+      "items": [
+        { "label": "5 Pull-ups", "price": 20, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" },
+        { "label": "2 allers-retours Sled à 135 lbs", "price": 10, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" }
+      ]
+    },
+    {
+      "name": "Racha",
+      "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba",
+      "items": [
+        { "label": "200 m de course", "price": 20, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" },
+        { "label": "1 aller-retour à 135 lbs", "price": 10, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" }
+      ]
+    },
+    {
+      "name": "David",
+      "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba",
+      "items": [
+        { "label": "Tapis – max vitesse 20 s", "price": 20, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" },
+        { "label": "10 Pull-ups", "price": 10, "url": "https://www.zeffy.com/fr-CA/ticketing/e30e70f2-45db-497b-8b25-4d1c528797ba" }
+      ]
+    }
+  ]
+}
