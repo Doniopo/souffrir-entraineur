@@ -48,6 +48,15 @@
         { "label": "Tapis – max vitesse 20 s", "price": 20, "url": "https://www.zeffy.com/fr-CA/peer-to-peer/2025-defi-150-minutes-cest-la-cle-nautilus-plus" },
         { "label": "10 Pull-ups", "price": 10, "url": "https://www.zeffy.com/fr-CA/peer-to-peer/2025-defi-150-minutes-cest-la-cle-nautilus-plus" }
       ]
-    }
+    },
+    {
+  "name": "John",
+  "url": "https://www.zeffy.com/fr-CA/peer-to-peer/2025-defi-150-minutes-cest-la-cle-nautilus-plus",
+  "items": [
+    { "label": "10 Push-ups", "price": "10$", "url": "https://www.zeffy.com/fr-CA/peer-to-peer/2025-defi-150-minutes-cest-la-cle-nautilus-plus" } ,
+    { "label": "25 Crunch", "price": "20$", "url": "https://www.zeffy.com/fr-CA/peer-to-peer/2025-defi-150-minutes-cest-la-cle-nautilus-plus" } 
+  ]
+}
+
   ]
 }
